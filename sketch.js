@@ -13,14 +13,14 @@ var score;
 
 function preload()
 {
-	hallwayImg = loadImage("hallway.jpg");
-	bullyImg = loadImage("bully.png");
-	trashcanImg = loadImage("trashcan.png");
-	appleImg = loadImage("apple.png");
-	messImg = loadImage("puddle.png");
-	playerAnimation = loadAnimation("Runner1.png", "Runner2.png");
-	playerJump = loadAnimation("RunnerJump.png");
-	playerFall = loadAnimation("RunnerFall.png");
+	hallwayImg = loadImage("images/hallway.jpg");
+	bullyImg = loadImage("images/bully.png");
+	trashcanImg = loadImage("images/trashcan.png");
+	appleImg = loadImage("images/apple.png");
+	messImg = loadImage("images/puddle.png");
+	playerAnimation = loadAnimation("images/Runner1.png", "images/Runner2.png");
+	playerJump = loadAnimation("images/RunnerJump.png");
+	playerFall = loadAnimation("images/RunnerFall.png");
 	
 }
 
